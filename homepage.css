@@ -1,0 +1,103 @@
+
+.home-flex{
+
+ position: fixed;
+ background-color: white;
+ top:0;
+ right: 0;
+ left: 0;
+ 
+}
+.banner
+{
+  background-color:black;
+  height: 400px;
+
+}
+.logo{
+  width: 600px;
+}
+.home-icon
+{
+  width: 100px;
+  vertical-align: bottom;
+}
+.home-button
+{
+  margin-top: 40px;
+}
+.formals-button
+{
+  width:215px;
+  font-size: 50px;
+  vertical-align: top;
+  margin-top: 50px;
+  margin-left: 100px;
+}
+.kids-button
+{
+  width:350px;
+  font-size: 50px;
+  vertical-align: top;
+  margin-top: 50px;
+  margin-left: 100px;
+}
+.sarree-button
+{
+  width:250px;
+  font-size: 50px;
+  vertical-align: top;
+  margin-top: 50px;
+  margin-left: 200px;
+}
+.cosmetics-button
+{
+  width:300px;
+  font-size: 50px;
+  vertical-align: top;
+  margin-top: 50px;
+  margin-left: 250px;
+}
+.daily-product-button
+{
+  width:400px;
+  font-size: 50px;
+  vertical-align: top;
+  margin-top: 50px;
+  margin-left: 350px;
+}
+.all-buttons
+{
+  display:grid;
+  grid-template-columns:200px 300px 300px 300px 300px 300px;
+ box-shadow: 5px 5px 100px rgba(0,0,0,1);
+  padding-bottom: 40px;
+  border-style: solid;
+  border-color: green;
+}
+button{
+  cursor: pointer;
+ border-width: 5px;
+ border-style: solid;
+ font-style: italic;
+ font-weight: bold;
+}
+button:hover{
+  background-color: black;
+  color: white;
+}
+button:active{
+  background-color: lightpink;
+  color: black;
+}
+.front-ads img
+{
+  display: flex;
+ width: 100%;
+ margin-bottom: 40px;
+
+}
+.front-ads{
+  background-color: black;
+  margin-top: 650px;
+}

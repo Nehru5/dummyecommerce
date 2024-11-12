@@ -1,0 +1,169 @@
+.home-flex{
+
+  position: fixed;
+  background-color: white;
+  top:0;
+  right: 0;
+  left: 0;
+  
+ }
+ .banner
+ {
+   background-color:black;
+   height: 400px;
+ 
+ }
+ .logo{
+   width: 600px;
+ }
+ .home-icon
+ {
+   width: 100px;
+   vertical-align: bottom;
+ }
+ .home-button
+ {
+   margin-top: 40px;
+ }
+ .formals-button
+ {
+   width:400px;
+   font-size: 50px;
+   vertical-align: top;
+   margin-top: 50px;
+   margin-left: 100px;
+ }
+ .kids-button
+ {
+   width:350px;
+   font-size: 50px;
+   vertical-align: top;
+   margin-top: 50px;
+   margin-left: 270px;
+ }
+ .sarree-button
+ {
+   width:250px;
+   font-size: 50px;
+   vertical-align: top;
+   margin-top: 50px;
+   margin-left: 450px;
+ }
+ .cosmetics-button
+ {
+   width:300px;
+   font-size: 50px;
+   vertical-align: top;
+   margin-top: 50px;
+   margin-left: 500px;
+ }
+ .daily-product-button
+ {
+   width:400px;
+   font-size: 50px;
+   vertical-align: top;
+   margin-top: 50px;
+   margin-left: 600px;
+ }
+ .all-buttons
+ {
+   display:grid;
+   grid-template-columns:200px 300px 300px 300px 300px 300px;
+  box-shadow: 5px 5px 100px rgba(0,0,0,1);
+   padding-bottom: 40px;
+   border-style: solid;
+   border-color: green;
+ }
+ button{
+   cursor: pointer;
+  border-width: 5px;
+  border-style: solid;
+  font-style: italic;
+  font-weight: bold;
+ }
+ button:hover{
+   background-color: black;
+   color: white;
+ }
+ button:active{
+   background-color: lightpink;
+   color: black;
+ }
+ .title
+ {
+  font-size: 48px;
+  font-weight: 700;
+  font-family:Arial, Helvetica, sans-serif;
+  font-style: italic;
+ }
+ .special-price
+ {
+  font-size: 48px;
+  font-weight: 700;
+  font-family:Arial, Helvetica, sans-serif;
+  font-style: italic;
+ }
+ .price
+ {
+  font-size: 48px;
+  font-weight: 700;
+  font-family:Arial, Helvetica, sans-serif;
+  font-style: italic;
+ }
+ .offer
+ {
+  font-size: 48px;
+  font-weight: 700;
+  font-family:Arial, Helvetica, sans-serif;
+  font-style: italic;
+color: green;
+ }
+ .shipping-charge
+ {
+  font-size: 48px;
+  font-weight: 700;
+  font-family:Arial, Helvetica, sans-serif;
+  font-style: italic;
+color: green;
+margin-bottom: 0;
+ }
+ .container
+ {
+  display: grid;
+  grid-template-columns: 1500px 1500px 1500px;
+  margin-top: 700px;
+ }
+ .small-container
+ {
+  margin-bottom:100px;
+  margin-right: 200px;
+  border-style: solid;
+ }
+ .small-container img
+ {
+  
+  width: 100%;
+ }
+ .buy-button{
+  background-color: black;
+  color: white;
+  font-size: 60px;
+  width:20%;
+  margin-left: 500px;
+  margin-top: 100px;margin-bottom: 50px;
+
+ }
+ .buy-button:hover{
+  background-color: green;
+ }
+ .buy-button:active{
+  opacity: 0.5;
+ }
+ .shirt-height
+ {
+height:1300px;
+ }
+ .shirt-height7{
+height: 1550px;
+ }
+ 

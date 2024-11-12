@@ -1,0 +1,110 @@
+.offer{
+  color: green;
+}
+.container{
+  display: grid;
+  grid-template-columns: 1000px 1000px;
+  border: 1px solid black;
+  column-gap: 100px;
+}
+.title{
+border:1px solid black;
+padding-left: 390px;
+font-size: 40px;
+
+}
+.image-1{
+  border:1px solid black;
+  
+}
+.pic-1{
+  width: 100%;
+  height: 1000px;
+}
+.purchase{
+  padding-right:550px ;
+  padding-left: 390px;
+  font-size: 30px;
+  background-color:white;
+  color: black;
+  cursor: pointer;
+}
+.purchase:active{
+ 
+  background-color: pink;
+  color:black;
+}
+p
+.offer{
+  color: green;
+}
+.number,.quantity,h4{
+  font-size: 70px;
+}
+.radio-group{
+  display: none;
+}
+.show{
+  display: none;
+
+}
+.radio{
+  display: block;
+  
+  
+}
+.order{
+  display: none;
+}
+.orders{
+  display: block;
+  margin-bottom: 100px;
+}
+.place{
+  margin-top: 100px;
+  margin-left: 100px;
+}
+.address{
+  height: 150px;
+  width: 300px;
+ text-align:left;
+  display: inline;
+
+}
+.sub-btn{
+  height: 50px;
+  font-size: 50px;
+  display: inline;
+
+}
+.submit{
+  height: 70px;
+  font-size: 50px;
+  padding-bottom: 70px;
+}
+.final{
+  display: none;
+}
+.finals
+{
+  display: block;
+}
+.para{
+  display: none;
+}
+.small{
+  display: block;
+}
+.small_container{
+  display: none;
+}
+.overall-small-container{
+  display:grid;
+  grid-template-columns: 300px 300px;
+  
+
+}
+.title{
+  padding: 0;
+  border: none;
+}
